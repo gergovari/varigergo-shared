@@ -1,2 +1,3 @@
-# Did You Become TOO Dependent on Big Tech Companies?
-## I can help you become free again: I'll send you instructions on how to decouple your infrastructure.
+# Having a hard time starting with the Hugo static site generator?
+## I'll send you my Hugo theme for FREE which is based on modern features and tools.
+## Many people pay for this knowledge and CODE. You can start using it right away!
