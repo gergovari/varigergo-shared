@@ -1,3 +1,4 @@
-# Having a hard time starting with the Hugo static site generator?
-## I'll send you my Hugo theme for FREE which is based on modern features and tools.
-## Many people pay for this knowledge and CODE. You can start using it right away!
+# **Your personal brand**'s presence is in **{{< highlight >}}DANGER{{< /highlight >}}**!
+## You're NOT ready for the future of the Internet...
+## I can give you essential {{< highlight >}}FREE{{< /highlight >}} elements for your new website.
+You just need to type in your e-mail address.
