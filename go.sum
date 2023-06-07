@@ -1,0 +1,8 @@
+github.com/vyberd/gallery v0.0.0-20230512111403-a99b40b757e5 h1:LVN2fDNpYn/gPm1/hS0SpnN4frUIsUOgqQQM3kQgTzQ=
+github.com/vyberd/gallery v0.0.0-20230512111403-a99b40b757e5/go.mod h1:98w/tuJvgS1YKmf3Dcy9EGp3uSr7QLjpeWh+vMF94aA=
+github.com/vyberd/popup v0.0.0-20230516082211-a0f3df56cda0 h1:MMJ3/hWGHCTzRj/ZARmKTVKpfI05xiDTCL8bUQhFc2M=
+github.com/vyberd/popup v0.0.0-20230516082211-a0f3df56cda0/go.mod h1:q2Rg13Y0oogk6tJAHjF1OLLbPk+8rfMxkmQHyo/uZik=
+github.com/vyberd/stylesheet v0.0.0-20230508132951-d62b845355ed h1:LO6wO57O4M8mahqwkQcbJlDFR+V9nftTtX9dpUFqlcc=
+github.com/vyberd/stylesheet v0.0.0-20230508132951-d62b845355ed/go.mod h1:RPgxnbH2FhJj5QUwQGAhnZxpp/zCbVUUrWUJ2G3bNwg=
+github.com/vyberd/tracking v0.0.0-20230516082221-f06cea848f6f h1:QVa/AG+w4M00vxjsQjc2CWf2P1wskEGHzjrmNhIoerQ=
+github.com/vyberd/tracking v0.0.0-20230516082221-f06cea848f6f/go.mod h1:b3KMx63oidiL82Oy9umq88QIWQw1/0ndB1zws2VejHg=
