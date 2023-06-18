@@ -1,3 +1,3 @@
-# The {{< highlight >}}SECRET{{< /highlight >}} to my market research.
-## No, it's not just "work hard for 2 hours".
-## Sign up here to get it.
+# To make money you need to sell a product, right?
+# **WRONG!**
+Sign up and I'll tell you How To Sell Your Customers Their "**{{< highlight >}}GOLDEN DREAM{{< /highlight >}}**".
