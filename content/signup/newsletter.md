@@ -1,3 +1,7 @@
-# To make money you need to sell a product, right?
-# **WRONG!**
-Sign up and I'll tell you How To Sell Your Customers Their "**{{< highlight >}}GOLDEN DREAM{{< /highlight >}}**".
+# Why Creating A Hero Makes Your Tweet Go Viral...
+# Meet The Hero's Journey
+If you want your message to have a punch.
+
+With the technique used by Russell Brunson and many more...  
+
+**Then sign up here for FREE!**
