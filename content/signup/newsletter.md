@@ -1,6 +1,6 @@
-# Why Creating A Hero Makes Your Tweet Go Viral...
-# Meet The Hero's Journey
-If you want your message to have a punch.
+# The story structure that turns people into MONEY
+## **Meet The Hero's Journey**
+If you need engaging content.
 
 With the technique used by Russell Brunson and many more...  
 
